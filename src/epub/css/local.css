@@ -1,2 +1,29 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
+
+/* Business card in chapter 22 */
+#chapter-22 blockquote{
+	border: 1px solid;
+	break-inside: avoid;
+	font-style: italic;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 16em;
+	padding: 1em 2em;
+	text-align: center;
+}
+
+#chapter-22 blockquote p span:first-child{
+	display: inline-block;
+	font-style: normal;
+	padding-bottom: .75em;
+	text-transform: uppercase;
+}
+
+#chapter-22 blockquote p span:last-child{
+	display: inline-block;
+	font-style: normal;
+	font-variant: small-caps;
+	padding-top: .75em;
+}
+/* end business card */
