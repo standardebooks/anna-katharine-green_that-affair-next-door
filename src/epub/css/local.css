@@ -1,6 +1,29 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
+/* Newspaper headlines in chapter 8 */
+#chapter-8 > blockquote p{
+	font-variant: small-caps;
+	text-align: center;
+	text-indent: 0;
+}
+
+#chapter-8 > blockquote header p{
+	font-size: larger;
+	padding-bottom: 1em;
+	text-transform: uppercase;
+}
+
+#chapter-8 > blockquote:first-of-type p ~ p::before{
+	border-top: 1px solid;
+	content: "";
+	display: block;
+	height: 0;
+	margin: 1.5em auto;
+	width: 25%;
+}
+/* end newspaper headlines */
+
 /* Business card in chapter 22 */
 #chapter-22 blockquote{
 	border: 1px solid;
