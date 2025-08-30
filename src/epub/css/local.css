@@ -73,9 +73,10 @@ footer{
 }
 /* end business card */
 
-/* Full-chapter 39 BQ */
-#chapter-39 blockquote{
+/* Full-chapter blockquote in cc 39, 41 */
+#chapter-39 blockquote,
+#chapter-41 blockquote{
 	margin: inherit;
 	padding-top: 1em;
 }
-/* end c39 BQ */
+/* end cc39,41 bq */
