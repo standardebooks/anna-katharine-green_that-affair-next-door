@@ -42,14 +42,14 @@
 		<meta id="collection-2" property="belongs-to-collection">Amelia Butterworth</meta>
 		<meta property="collection-type" refines="#collection-2">series</meta>
 		<meta property="group-position" refines="#collection-2">1</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">Mysterious midnight visitors to a New York mansion are observed by a spinster living next door.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;When Miss Amelia Butterworth observes a couple entering the neighboring Van Burnam mansion, her instinct tells her that something isn’t right. Investigating, she discovers a woman’s body and realizes she has stumbled upon a murder, and that she is a vitally important witness. But Miss Butterworth aspires to be more than simply a witness, however important—she sets out to solve the crime. Initially she works in competition with the famed New York detective, &lt;a href="https://standardebooks.org/collections/mr-gryce"&gt;Ebenezer Gryce&lt;/a&gt;. As the mystery deepens, nothing but their cooperation will lead to the truth.&lt;/p&gt;
+			&lt;p&gt;With the creation of the character of Miss Butterworth, &lt;a href="https://en.wikipedia.org/wiki/Anna_Katharine_Green"&gt;Anna Katharine Green&lt;/a&gt; anticipated by thirty years the advent of &lt;a href="https://standardebooks.org/ebooks/agatha-christie"&gt;Agatha Christie’s&lt;/a&gt; more famous old spinster and amateur sleuth, Miss Marple.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/21617</dc:source>
 		<dc:source>https://archive.org/details/thataffairnextd02greegoog</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/anna-katharine-green_that-affair-next-door</meta>
@@ -59,10 +59,10 @@
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n50046883</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Paul Cornoyer</dc:contributor>
+		<meta property="file-as" refines="#artist">Cornoyer, Paul</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Paul_Cornoyer</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/no2015005504</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Suzanne Shell</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Shell, Suzanne</meta>
