@@ -17,8 +17,6 @@
 			<code>s-046</code>
 			<reason>Spans are required to target CSS to replicate a business card.</reason>
 		</ignore>
-	</file>
-	<file path="chapter-22.xhtml">
 		<ignore>
 			<code>t-049</code>
 			<reason>Two-em-dash used for eliding a number, not an "entire word".</reason>
