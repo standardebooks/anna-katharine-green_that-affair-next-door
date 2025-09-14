@@ -25,8 +25,8 @@ footer{
 
 /* Bespoke rules */
 /* Amelia's notes-to-self, cc 3, 16 */
-#chapter-3 blockquote p:first-child,
-#chapter-16 blockquote p:first-child{
+#chapter-3 blockquote > p:first-child,
+#chapter-16 blockquote > p:first-child{
 	font-style: italic;
 }
 /* end amelia's notes */
