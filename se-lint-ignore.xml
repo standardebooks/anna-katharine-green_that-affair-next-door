@@ -6,6 +6,12 @@
 			<reason>Two-em-dash used for eliding a number, not an "entire word".</reason>
 		</ignore>
 	</file>
+	<file path="chapter-16.xhtml">
+		<ignore>
+			<code>s-081</code>
+			<reason>Leading em-dash commencing a regular paragraph which is preceded by blockquote matches the scans.</reason>
+		</ignore>
+	</file>
 	<file path="chapter-21.xhtml">
 		<ignore>
 			<code>t-049</code>
