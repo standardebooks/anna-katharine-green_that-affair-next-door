@@ -51,7 +51,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/21617</dc:source>
 		<dc:source>https://archive.org/details/thataffairnextd02greegoog</dc:source>
-		<meta property="se:word-count">105366</meta>
+		<meta property="se:word-count">104532</meta>
 		<meta property="se:reading-ease.flesch">69.72</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/anna-katharine-green_that-affair-next-door</meta>
 		<dc:creator id="author">Anna Katharine Green</dc:creator>
